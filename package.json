@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "Créer une navigation en 3D",
     "version": "1.0.0",
     "description": " \r * \r * ",
     "main": "script.js",
@@ -11,12 +11,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Sarahgues"
+        "url": "git+https://github.com/Sarahgues/NavEn3D.git"
     },
     "author": "Barkhoum GUESMIA",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Sarahgues"
+        "url": "https://github.com/Sarahgues/NavEn3D.git"
     },
-    "homepage": "https://github.com/Sarahgues"
+    "homepage": "https://github.com/Sarahgues/NavEn3D.git"
 }
